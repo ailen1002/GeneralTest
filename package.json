@@ -1,0 +1,15 @@
+{
+  "name": "generaltest",
+  "version": "1.0.0",
+  "description": "A test app build with Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Andrew",
+  "license": "",
+  "devDependencies": {
+    "electron": "^11.2.0"
+  }
+}
